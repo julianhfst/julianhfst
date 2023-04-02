@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @julianhfst
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development!
 
 <!---
 julianhfst/julianhfst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
